@@ -1,7 +1,7 @@
 @charset 'utf-8';
 
 main {
-    background-color: gray;
+    background-color: white;
     text-align: center;
     width: 400px;
     height: 400px;
@@ -14,4 +14,9 @@ img {
     width: 100px;
     height: 100px;
     padding: 10px;
+    border-radius: 50%;
+}
+
+body {
+    background-color: black;
 }
